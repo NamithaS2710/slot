@@ -152,7 +152,8 @@ margin-right: auto;
 </html>
 ```
 ## OUTPUT
-![Screenshot 2024-04-03 193144](https://github.com/NamithaS2710/slot/assets/133190822/ec390498-f734-42fb-bca2-64cd2de3bf2a)
+![Screenshot 2024-04-03 193144](https://github.com/NamithaS2710/slot/assets/133190822/57f88f27-7a91-4e54-82ba-1d233926dafc)
+
 
 
 ## RESULT
